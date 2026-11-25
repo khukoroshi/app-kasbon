@@ -37,16 +37,16 @@ warung-kasbon/
 ### 1. Menjalankan Backend (Server)
 ```bash
 cd backend
-npm install
-npm run dev
+pnpm install
+pnpm dev
 ```
 Server akan berjalan di `http://localhost:5000`.
 
 ### 2. Menjalankan Mobile App (React Native / Expo)
 ```bash
 cd mobile
-npm install
-npx expo start
+pnpm install
+pnpm start
 ```
 Buka aplikasi **Expo Go** di HP Android Anda, lalu scan QR code yang muncul di terminal.
 
